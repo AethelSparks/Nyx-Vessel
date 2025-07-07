@@ -1,0 +1,6 @@
+paddlepaddle==2.5.0
+paddlenlp==2.6.1
+flask==3.0.0
+gunicorn==22.0.0
+sentencepiece
+aistudio-sdk==0.1.2
